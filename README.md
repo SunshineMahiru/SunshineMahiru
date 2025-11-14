@@ -9,7 +9,7 @@
 ### 🎯 Quick Links
 - **Blog**: [xizhou-sunshinemahiru.me](https://xizhou-sunshinemahiru.me)
 - **Projects**: [github.com/SunshineMahiru](https://github.com/SunshineMahiru)
-- **Casual Chat Group**: `1039548216` (QQ)
+- **Casual Chat**: `1039548216` (QQ)
 - **My BiLiBiLi**: [曦昼Sunshine](https://space.bilibili.com/400948876)
 - **Full-Sugar Studio**: [@Xizhou Studio](https://space.bilibili.com/1877503227)
 
