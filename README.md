@@ -10,7 +10,8 @@
 - **Blog**: [xizhou-sunshinemahiru.me](https://xizhou-sunshinemahiru.me)
 - **Projects**: [github.com/SunshineMahiru](https://github.com/SunshineMahiru)
 - **Casual Chat Group**: `1039548216` (QQ)
-- **Full-Sugar Studio**: [@Xizhou Studio](https://github.com/SunshineMahiru)
+- **My BiLiBiLi**: [曦昼Sunshine](https://space.bilibili.com/400948876)
+- **Full-Sugar Studio**: [@Xizhou Studio](https://space.bilibili.com/1877503227)
 
 ---
 
@@ -23,7 +24,7 @@
 - **VTuber Brainrot**: My oshis are my motivation 💖
 - **Studio Head**: Leading projects with weeb power 🚀
 
-My Deepseek says*"The code may compile, but my life doesn't"* 💻✨
+- **My Deepseek says: The code may compile, but my life doesn't**💻✨
 
 ---
 
