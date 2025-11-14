@@ -1,4 +1,4 @@
-# 🌸 Welcome to My Digital Realm 🌸
+# 🥰 Welcome to My Digital Realm 🥰
 
 > **Unremarkable Double-Non-211 CS University Creature** • **ENFP** • **Senior Cattle-Horse Worker** 🐄🐎  
 > **Homo HarmonyOS Developer** • **Half-Sugar Weeb** 🍬 • **Bilibili Moderator** 🛡️  
@@ -10,7 +10,7 @@
 - **Blog**: [xizhou-sunshinemahiru.me](https://xizhou-sunshinemahiru.me)
 - **Projects**: [github.com/SunshineMahiru](https://github.com/SunshineMahiru)
 - **Casual Chat Group**: `1039548216` (QQ)
-- **Full-Sugar Studio**: [@曦昼工作室](https://github.com/SunshineMahiru)
+- **Full-Sugar Studio**: [@Xizhou Studio](https://github.com/SunshineMahiru)
 
 ---
 
@@ -23,8 +23,11 @@
 - **VTuber Brainrot**: My oshis are my motivation 💖
 - **Studio Head**: Leading projects with weeb power 🚀
 
-*"The code may compile, but my life doesn't"* 💻✨
+My Deepseek says*"The code may compile, but my life doesn't"* 💻✨
 
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SunshineMahiru&color=ff69b4)
+![Visitor Count](https://komarev.com/ghpvc/?username=SunshineMahiru&color=ff69b4)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SunshineMahiru&color=ff69b4&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SunshineMahiru&color=ff69b4&layout=compact)
