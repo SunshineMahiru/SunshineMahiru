@@ -27,7 +27,6 @@ My Deepseek says*"The code may compile, but my life doesn't"* 💻✨
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=SunshineMahiru&color=ff69b4)
-![Visitor Count](https://komarev.com/ghpvc/?username=SunshineMahiru&color=ff69b4)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SunshineMahiru&color=ff69b4&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SunshineMahiru&color=ff69b4&layout=compact)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SunshineMahiru&color=ff69b4&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SunshineMahiru&color=ff69b4&layout=compact)
+![Profile Views](https://komarev.com/ghpvc/?username=SunshineMahiru&color=ff69b4)![Visitor Count](https://komarev.com/ghpvc/?username=SunshineMahiru&color=ff69b4)
