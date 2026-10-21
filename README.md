@@ -18,10 +18,10 @@
 
 ### 🎯 Quick Links
 
-<p align="center">
-  <a href="https://xizhou-sunshinemahiru.me"><img src="https://img.shields.io/badge/Blog-xizhou--sunshinemahiru.me-FF69B4?style=for-the-badge&logo=rss&logoColor=white" alt="Blog" /></a>
-  <a href="https://github.com/SunshineMahiru"><img src="https://img.shields.io/badge/Projects-SunshineMahiru-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="Projects" /></a>
-  <a href="https://space.bilibili.com/400948876"><img src="https://img.shields.io/badge/BiLiBiLi-%E6%9B%A6%E6%98%BCSunshine-FF69B4?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili" /></a>
+<p align="center">  
+  <a href="https://www.zhihu.com/people/xi-zhou-10-95"><img src="https://img.shields.io/badge/Blog-%E7%9F%A5%E4%B9%8E-FF69B4?style=for-the-badge&logo=rss&logoColor=white" alt="Blog" /></a>  
+  <a href="https://github.com/SunshineMahiru"><img src="https://img.shields.io/badge/Projects-SunshineMahiru-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="Projects" /></a>  
+  <a href="https://space.bilibili.com/400948876"><img src="https://img.shields.io/badge/BiLiBiLi-%E6%9B%A6%E6%98%BCSunshine-FF69B4?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili" /></a>  
   <a href="https://space.bilibili.com/1877503227"><img src="https://img.shields.io/badge/Xizhou%20Studio-%40Xizhou-FF69B4?style=for-the-badge&logo=bilibili&logoColor=white" alt="Xizhou Studio" /></a>
 </p>
 
