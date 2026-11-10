@@ -14,6 +14,7 @@
 ## At a Glance
 
 - **Direction** — local-first tools for personal records: data stays on the device, and model output is checked against the source.
+- **Currently** — building applied AI agents, personal tools, and scripts; learning cybersecurity engineering; and self-studying the full lifecycle of production-grade LLM agent systems, centered on guardrail ablation experiments.
 - **Reach me** — [nekobear.x@outlook.com](mailto:nekobear.x@outlook.com).
 
 ## Featured Projects
