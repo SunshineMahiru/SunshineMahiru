@@ -1,44 +1,72 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,100:FF69B4&height=180&text=SunshineMahiru&fontSize=48&fontColor=ffffff&animation=fadeIn&section=header&desc=%E6%9B%A6%E6%98%BC&descAlignY=68&descSize=20)
+<h1 align="center">SunshineMahiru</h1>
 
+<p align="center"><b>Local-first personal data systems, and how much judgment to hand to a language model.</b></p>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=FF69B4&center=true&vCenter=true&width=620&lines=Unremarkable+Double-Non-211+CS+University+Creature;ENFP+%C2%B7+Senior+Cattle-Horse+Worker;Homo+HarmonyOS+Developer;Half-Sugar+Weeb+%C2%B7+Bilibili+Moderator;VTuber+Enthusiast+%C2%B7+Head+of+Xizhou+Studio;Mahiru%27s+Official+Bear+Plush" alt="Typing SVG" />
-  </a>
-</p>
-
+<p align="center">Computer Science and Technology · Hunan Agricultural University · Expected June 2028</p>
 
 <p align="center">
-  <b>Unremarkable Double-Non-211 CS University Creature</b> • <b>ENFP</b> • <b>Senior Cattle-Horse Worker</b> 🐄🐎<br/>
-  <b>Homo HarmonyOS Developer</b> • <b>Half-Sugar Weeb</b> 🍬 • <b>Bilibili Moderator</b> 🛡️<br/>
-  <b>VTuber Enthusiast</b> 💫 • <b>Head of Xizhou Studio</b> 🏢 • <b>Mahiru's Official Bear Plush</b> 🧸
+  <a href="mailto:nekobear.x@outlook.com">Email</a> ·
+  <a href="https://github.com/SunshineMahiru">GitHub</a> ·
+  <a href="https://www.zhihu.com/people/xi-zhou-10-95">Zhihu</a> ·
+  <a href="https://space.bilibili.com/400948876">Bilibili</a>
 </p>
 
----
+## At a Glance
 
-### 🎯 Quick Links
+- **Direction** — local-first tools for personal records: data stays on the device, and model output is checked against the source.
+- **Reach me** — [nekobear.x@outlook.com](mailto:nekobear.x@outlook.com).
 
-<p align="center">  
-  <a href="https://www.zhihu.com/people/xi-zhou-10-95"><img src="https://img.shields.io/badge/Blog-%E7%9F%A5%E4%B9%8E-FF69B4?style=for-the-badge&logo=rss&logoColor=white" alt="Blog" /></a>  
-  <a href="https://github.com/SunshineMahiru"><img src="https://img.shields.io/badge/Projects-SunshineMahiru-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="Projects" /></a>  
-  <a href="https://space.bilibili.com/400948876"><img src="https://img.shields.io/badge/BiLiBiLi-%E6%9B%A6%E6%98%BCSunshine-FF69B4?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili" /></a>  
-  <a href="https://space.bilibili.com/1877503227"><img src="https://img.shields.io/badge/Xizhou%20Studio-%40Xizhou-FF69B4?style=for-the-badge&logo=bilibili&logoColor=white" alt="Xizhou Studio" /></a>
-</p>
+## Featured Projects
 
----
+### [Cogit Lucid](https://github.com/SunshineMahiru/cogit-lucid-workbench)
+*ArkTS · ArkUI · AGPL-3.0*
 
+A HarmonyOS application for recording, reviewing, and calibrating judgments. A prediction freezes its confidence, reason, and settlement date on save, so the later review tests the original call instead of a rewritten one. Records sit in an encrypted twelve-table database, and the review agent reads them only after the user enables it.
+
+**34 pages · 33 components · 27,399 lines · 453 commits · 7 device test cases**
+
+### [mirror-dialogue](https://github.com/SunshineMahiru/mirror-dialogue)
+*Python · Jinja2 · MIT*
+
+An analysis pipeline that reads a diary or essay collection as a dialogue between the author and their self, other people, time, and surroundings. Scripts do the counting, an LLM does the annotation, and a validation gate blocks any report that lacks evidence or verified quote positions before HTML is written.
+
+**15 disciplinary lenses · 3,447 lines of Python · 711-line template · 6 test modules**
+
+### [Smart Farm Digital Twin](https://github.com/SunshineMahiru/smart-farm-software-development)
+*Spring Boot 3.2 · Spring AI · Vue 3.5 · MySQL · Apache-2.0*
+
+A software engineering practicum built as a working system: a 2.5D greenhouse heatmap driven by live temperature, a scheduled Spring AI report pushed to online users over WebSocket, and supply-chain records with logical deletes and traceable purchase history.
+
+**121 Java files · 29 Vue components · ~12,500 lines · 14 controllers · 16 mappers · 28,000 time-series records**
+
+## Other Projects
+
+| Project | What it does | Built with |
+|---|---|---|
+| [logisim-ita-lab](https://github.com/SunshineMahiru/logisim-ita-lab) | Text-first workflow for a circuit lab platform: parse a `.circ` template, generate a candidate, verify it along one of four routes. Port coordinates were measured from Logisim-ITA 2.16.2.0 rather than assumed. | Python, Java |
+| [deepseek-ucs-adapter](https://github.com/SunshineMahiru/deepseek-ucs-adapter) | Rewrites DeepSeek export fragments into the format a reference parser reads, with deterministic UUIDs; 24 unit tests run in CI. | Python, GitHub Actions |
+| [userscript-download-lab](https://github.com/SunshineMahiru/userscript-download-lab) | Adapter-driven download engine with a fixture site; 83 assertions across nine test files, plus six written experiments. | JavaScript, Node.js |
+| [transportconsult-master](https://github.com/SunshineMahiru/transportconsult-master) | Dijkstra routing over an editable train and flight network, with fare and travel-time objectives. | C++ |
+
+## Skills
+
+| Area | What I use |
+|---|---|
+| Languages | TypeScript, ArkTS, Python, Java, C++, JavaScript, SQL |
+| Mobile | HarmonyOS ArkTS, ArkUI state management V2, `NavPathStack`, `relationalStore` |
+| Backend | Spring Boot 3, MyBatis-Plus, Sa-Token, MySQL, WebSocket, REST |
+| Frontend | Vue 3, Vite, Pinia, ECharts, Element Plus |
+| Model integration | Spring AI, OpenAI-compatible endpoints, prompt templates, LLM annotation pipelines |
+| Engineering | Python and Node test suites, GitHub Actions, Docker, Git, ADRs |
+
+## GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SunshineMahiru&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunshineMahiru&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SunshineMahiru&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=ff69b4&icon_color=ff69b4&text_color=24292f&bg_color=ffffff" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunshineMahiru&layout=compact&hide_border=true&langs_count=8&title_color=ff69b4&text_color=24292f&bg_color=ffffff" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=SunshineMahiru&theme=radical&hide_border=true" alt="GitHub Streak" height="150" />
-</p>
+## Elsewhere
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SunshineMahiru&color=ff69b4&style=for-the-badge&label=VISITORS" alt="Visitor Count" />
-</p>
+- **Zhihu** — writing as [曦昼](https://www.zhihu.com/people/xi-zhou-10-95).
+- **Bilibili** — publishing as [曦昼Sunshine](https://space.bilibili.com/400948876), and moderating a community there.
